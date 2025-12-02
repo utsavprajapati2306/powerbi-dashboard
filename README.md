@@ -1,2 +1,2 @@
 # da internship
-ppowerbi dashboard
+powerbi dashboard
