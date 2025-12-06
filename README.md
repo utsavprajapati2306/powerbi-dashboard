@@ -4,7 +4,7 @@ This repository contains a step-by-step Power BI project demonstrating data clea
 
 📁 Project Files Overview
 
-1️⃣ sales_data.pbix – Raw Data Analysis
+1️ sales_data.pbix – Raw Data Analysis
 
 This file contains the initial raw dataset loaded into Power BI.
 Key characteristics:
@@ -15,7 +15,7 @@ Used as the starting point for data profiling
 
 Helps understand inconsistencies, missing values, and data structure
 
-2️⃣ sales_data_day2.pbix – Data Cleaning (Power Query)
+2️ sales_data_day2.pbix – Data Cleaning (Power Query)
 
 In this version, Power Query transformations are applied to prepare the dataset for reporting.
 Major changes performed:
@@ -34,7 +34,7 @@ Major changes performed:
 
 This file represents a clean and reliable dataset ready for visualization.
 
-3️⃣ sales_data_DAY3.pbix – Dashboard & Visualization
+3️ sales_data_DAY3.pbix – Dashboard & Visualization
 
 This file includes the final interactive dashboard, created using Power BI visualizations.
 
@@ -50,7 +50,7 @@ Implemented visuals:
 
 This version is the complete BI report offering insights and decision-support visuals.
 
-4️⃣ sales_data_DAY4.pbix – Report Formatting & Final Enhancements
+4️ sales_data_DAY4.pbix – Report Formatting & Final Enhancements
 
 This file contains the final polished version of the Power BI report, focused on improving design, layout, and user experience.
 
